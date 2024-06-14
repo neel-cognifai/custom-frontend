@@ -1,0 +1,241 @@
+ <safetyreport>
+ <safetyreportversion>1</safetyreportversion>
+ <safetyreportid>TR-XXXXXXXXX-2014GMK012399</safetyreportid> 
+<primarysourcecountry>TR</primarysourcecountry>
+ <occurcountry>TR</occurcountry>
+ <transmissiondateformat>102</transmissiondateformat>
+ <transmissiondate>20231122</transmissiondate>
+ <reporttype>1</reporttype>
+ <serious>1</serious>
+ <seriousnessdeath>2</seriousnessdeath>
+ <seriousnesslifethreatening>2</seriousnesslifethreatening>
+ <seriousnesshospitalization>2</seriousnesshospitalization>
+ <seriousnessdisabling>2</seriousnessdisabling>
+ <seriousnesscongenitalanomali>2</seriousnesscongenitalanomali>
+ <seriousnessother>1</seriousnessother>
+ <receivedateformat>102</receivedateformat>
+ <receivedate>20141115</receivedate>
+ <receiptdateformat>102</receiptdateformat>
+ <receiptdate>20141115</receiptdate>
+ <additionaldocument>1</additionaldocument>
+ <documentlist>Source Documents</documentlist>
+ <fulfillexpeditecriteria>1</fulfillexpeditecriteria>
+ <companynumb>TR-XXXXXXXXX-2014GMK012399</companynumb>
+ <fdasafetyreporttype>3</fdasafetyreporttype>
+ <primarysource>
+<reportergivename>D</reportergivename>
+<reporterfamilyname>Aksoy</reporterfamilyname>
+<reporterorganization>Gaziosmanpasa University</reporterorganization>
+<reporterdepartment>Department Of Neurology</reporterdepartment>
+<reporterstreet>Faculty of Medicine,
+Muhittin Fusunoglu cd.</reporterstreet>
+<reportercity>Tokat</reportercity>
+<reporterpostcode>60100</reporterpostcode>
+<reportercountry>TR</reportercountry>
+<qualification>3</qualification>
+<literaturereference>Aksoy D, Cevik B, Kurt S, Pekdas E, Solmaz V. Hypokalemia and hypomagnesaemia 
+related to levetiracetam use. J Clin Neurosci.. 2014;S0967-5868(14):00220-3</literaturereference>
+ </primarysource>
+ <sender>
+<sendertype>1</sendertype>
+<senderorganization>GMARK</senderorganization>
+<senderstreetaddress>XXXXXXXXX Inc, USA. 750 Corporate 
+Drive</senderstreetaddress>
+<sendercity>Mahwah</sendercity>
+<senderstate>NJ</senderstate>
+<senderpostcode>07430</senderpostcode>
+<sendercountrycode>US</sendercountrycode>
+<sendertel>2016848000</sendertel>
+<senderemailaddress>Drugsafety@glenmarkpharma.com</senderemailaddress>
+ </sender>
+ <receiver>
+<receivertype>2</receivertype>
+<receiverorganization>ZZFDA</receiverorganization>
+<receiverdepartment>Office of Surveillance and Epidemiology</receiverdepartment>
+<receivertitle>Mr.</receivertitle>
+<receivergivename>Roger</receivergivename>
+<receiverfamilyname>Goetsch</receiverfamilyname>
+<receiverstreetaddress>8201 Corporate Drive, Suite 540</receiverstreetaddress>
+<receivercity>Landover</receivercity>
+<receiverstate>MD</receiverstate>
+<receiverpostcode>20785</receiverpostcode>
+<receivercountrycode>US</receivercountrycode>
+<receivertel>2404877373</receivertel>
+<receivertelcountrycode>001</receivertelcountrycode>
+<receiverfax>3019183134</receiverfax>
+<receiverfaxcountrycode>001</receiverfaxcountrycode>
+<receiveremailaddress>roger.goetsch@fda.hhs.gov</receiveremailaddress>
+ </receiver>
+ <patient>
+<patientinitial>UNKNOWN</patientinitial>
+<patientonsetage>23</patientonsetage>
+<patientonsetageunit>801</patientonsetageunit>
+<patientsex>1</patientsex>
+<resultstestsprocedures>Hypokalemia (3.1mmol/L) 
+Hypomagnesaemia (0.56mmol/L)
+Hemogram, Blood urea nitrogen, Creatinine, Total cortisol, Thyroid function tests, Creatinine clearance,
+and Renal Doppler ultrasound were normal</resultstestsprocedures>
+<medicalhistoryepisode>
+<patientepisodenamemeddraversion>17.1</patientepisodenamemeddraversion>
+<patientepisodename>Convulsion</patientepisodename>
+<patientmedicalcontinue>2</patientmedicalcontinue>
+</medicalhistoryepisode>
+<patientpastdrugtherapy>
+<patientdrugname>VALPROATE</patientdrugname>
+</patientpastdrugtherapy>
+<reaction>
+<primarysourcereaction>Renal tubular disorder</primarysourcereaction>
+<reactionmeddraversionllt>17.1</reactionmeddraversionllt>
+<reactionmeddrallt>Renal tubular disorder</reactionmeddrallt>
+<reactionmeddraversionpt>17.1</reactionmeddraversionpt>
+<reactionmeddrapt>Renal tubular disorder</reactionmeddrapt>
+<reactionoutcome>6</reactionoutcome>
+</reaction>
+<reaction>
+<primarysourcereaction>Interstitial nephritis</primarysourcereaction>
+<reactionmeddraversionllt>17.1</reactionmeddraversionllt>
+<reactionmeddrallt>Tubulointerstitial nephritis</reactionmeddrallt>
+<reactionmeddraversionpt>17.1</reactionmeddraversionpt>
+<reactionmeddrapt>Tubulointerstitial nephritis</reactionmeddrapt>
+<reactionoutcome>6</reactionoutcome>
+</reaction>
+<reaction>
+<primarysourcereaction>Renal failure</primarysourcereaction>
+<reactionmeddraversionllt>17.1</reactionmeddraversionllt>
+<reactionmeddrallt>Renal failure</reactionmeddrallt>
+<reactionmeddraversionpt>17.1</reactionmeddraversionpt>
+<reactionmeddrapt>Renal failure</reactionmeddrapt>
+<reactionoutcome>6</reactionoutcome>
+</reaction>
+<reaction>
+<primarysourcereaction>Hypokalemia</primarysourcereaction>
+<reactionmeddraversionllt>17.0</reactionmeddraversionllt>
+<reactionmeddrallt>Hypokalemia</reactionmeddrallt>
+<reactionmeddraversionpt>17.0</reactionmeddraversionpt>
+<reactionmeddrapt>Hypokalaemia</reactionmeddrapt>
+<reactionoutcome>6</reactionoutcome>
+</reaction>
+<reaction>
+<primarysourcereaction>Hypomagnesaemia</primarysourcereaction>
+<reactionmeddraversionllt>17.1</reactionmeddraversionllt>
+<reactionmeddrallt>Hypomagnesaemia</reactionmeddrallt>
+<reactionmeddraversionpt>17.1</reactionmeddraversionpt>
+<reactionmeddrapt>Hypomagnesaemia</reactionmeddrapt>
+<reactionoutcome>6</reactionoutcome>
+</reaction>
+<drug>
+<drugcharacterization>1</drugcharacterization>
+<medicinalproduct>Levetiracetam</medicinalproduct>
+<obtaindrugcountry>UK</obtaindrugcountry>
+<drugauthorizationnumb>078234</drugauthorizationnumb>
+<drugauthorizationcountry>US</drugauthorizationcountry>
+<drugauthorizationholder>XXXXXXXXX Inc.</drugauthorizationholder>
+<drugdosagetext>UNK</drugdosagetext>
+<drugdosageform>Unknown</drugdosageform>
+<drugindicationmeddraversion>18.0</drugindicationmeddraversion>
+<drugindication>Seizure</drugindication>
+<actiondrug>1</actiondrug>
+<activesubstance>
+<activesubstancename>LEVETIRACETAM</activesubstancename>
+</activesubstance>
+<drugreactionrelatedness>
+<drugreactionassesmeddraversion>17.0</drugreactionassesmeddraversion>
+<drugreactionasses>Hypokalaemia</drugreactionasses>
+<drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+<drugassessmentmethod>Global Introspection</drugassessmentmethod>
+<drugresult>Yes</drugresult>
+</drugreactionrelatedness>
+<drugreactionrelatedness>
+<drugreactionassesmeddraversion>17.0</drugreactionassesmeddraversion>
+<drugreactionasses>Hypokalaemia</drugreactionasses>
+<drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+<drugassessmentmethod>Global Introspection</drugassessmentmethod>
+<drugresult>Yes</drugresult>
+</drugreactionrelatedness>
+<drugreactionrelatedness>
+<drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+<drugreactionasses>Hypomagnesaemia</drugreactionasses>
+ <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ <drugreactionrelatedness>
+ <drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+ <drugreactionasses>Hypomagnesaemia</drugreactionasses>
+ <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ <drugreactionrelatedness>
+ <drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+ <drugreactionasses>Renal failure</drugreactionasses>
+ <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ <drugreactionrelatedness>
+ <drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+ <drugreactionasses>Renal failure</drugreactionasses>
+ <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ <drugreactionrelatedness>
+ <drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+ <drugreactionasses>Renal tubular disorder</drugreactionasses>
+ <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ <drugreactionrelatedness>
+ <drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+ <drugreactionasses>Renal tubular disorder</drugreactionasses>
+ <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ <drugreactionrelatedness>
+ <drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+ <drugreactionasses>Tubulointerstitial nephritis</drugreactionasses>
+ <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ <drugreactionrelatedness>
+ <drugreactionassesmeddraversion>17.1</drugreactionassesmeddraversion>
+ <drugreactionasses>Tubulointerstitial nephritis</drugreactionasses>
+ <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+ <drugassessmentmethod>Global Introspection</drugassessmentmethod>
+ <drugresult>Yes</drugresult>
+ </drugreactionrelatedness>
+ </drug>
+ <summary>
+ <narrativeincludeclinical>2014GMK012399/(TR): This is literature case report received on 15-Nov-2014 
+derived from scientific literature published by Aksoy D, Cevik B, Kurt S et al., pertaining to 23-year-old 
+male patient who developed renal tubular disorder (RENAL TUBULAR DISORDER) associated with interstinal 
+nephritis (TUBULOINTERSTITIAL NEPHRITIS), renal failure (RENAL FAILURE), hypokalemia (HYPOKALEMIA) and 
+hypomagnesaemia (HYPOMAGNESAEMIA) while receiving levetiracetam (strength, formulation and manufacturer 
+unknown) for seizures. 
+Citation: Aksoy D, Cevik B, Kurt S, Pekdas E, Solmaz V. Hypokalemia and hypomagnesaemia related to 
+levetiracetam use. J Clin Neurosci.2014; S0967-5868(14):00220-3.
+Past drug of patient included valproate. Concomitant medications were unknown at the time of report. 
+On an unknown date, patient was started with levetiracetam (dose, frequency and route of administration 
+unknown) for seizures. On an unknown date, after one month of levetiracetam treatment patient experienced 
+interstinal nephritis, renal failure due to renal tubular disorder and his neurological examination was 
+normal. Further examinations revealed hypokalemia (3.1mmol/L) and hypomagnesaemia (0.56mmol/L). Patients other 
+relavant tests: hemogram, blood urea nitrogen, creatinine, total cortisol, thyroid function tests, creatinine 
+clearance, and renal Doppler ultrasound were normal. On an unknown date, levetiracetam was tapered off and 
+treatment with 200mg/day lamotrigine was started. Potassium and magnesium levels returned to normal ranges in 
+subsequent tests. Outcome of the events was unknown at the time of report. 
+Author's discussion: Hypokalemia, found in the early period in this case, may be an indicator of a recently 
+developed renal tubular disorder. This experience indicates that unpredictable side effects of increasingly 
+used new antiepileptic drugs should be taken into consideration.
+Since Glenmark does not have market authorization for levetiracetam in Turkey; Glenmark product was ruled out 
+of consideration in terms of expedited reporting
+This report is for a non-Glenmark product; hence is processed only for signal management. It is closed after 
+data Entry.</narrativeincludeclinical>
+ <senderdiagnosismeddraversion>17.1</senderdiagnosismeddraversion>
+ <senderdiagnosis>Renal tubular disorder</senderdiagnosis>
+ </summary>
+ </patient>
+ </safetyreport>

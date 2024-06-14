@@ -1,0 +1,110 @@
+PMID- 37968260
+OWN - NLM
+STAT- In-Process
+LR  - 20231115
+IS  - 2158-3188 (Electronic)
+IS  - 2158-3188 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2023 Nov 16
+TI  - Magnetic seizure therapy and electroconvulsive therapy increase aperiodic 
+      activity.
+PG  - 347
+LID - 10.1038/s41398-023-02631-y [doi]
+AB  - Major depressive disorder (MDD) is a leading cause of disability worldwide. One 
+      of the most efficacious treatments for treatment-resistant MDD is 
+      electroconvulsive therapy (ECT). Recently, magnetic seizure therapy (MST) was 
+      developed as an alternative to ECT due to its more favorable side effect profile. 
+      While these approaches have been very successful clinically, the neural 
+      mechanisms underlying their therapeutic effects are unknown. For example, 
+      clinical "slowing" of the electroencephalogram beginning in the postictal state 
+      and extending days to weeks post-treatment has been observed in both treatment 
+      modalities. However, a recent longitudinal study of a small cohort of ECT 
+      patients revealed that, rather than delta oscillations, clinical slowing was 
+      better explained by increases in aperiodic activity, an emerging EEG signal 
+      linked to neural inhibition. Here we investigate the role of aperiodic activity 
+      in a cohort of patients who received ECT and a cohort of patients who received 
+      MST treatment. We find that aperiodic neural activity increases significantly in 
+      patients receiving either ECT or MST. Although not directly related to clinical 
+      efficacy in this dataset, increased aperiodic activity is linked to greater 
+      amounts of neural inhibition, which is suggestive of a potential shared neural 
+      mechanism of action across ECT and MST.
+CI  - © 2023. The Author(s).
+FAU - Smith, Sydney E
+AU  - Smith SE
+AUID- ORCID: 0000-0002-5293-7247
+AD  - Neurosciences Graduate Program, University of California, San Diego, La Jolla, 
+      CA, USA. s1smith@health.ucsd.edu.
+FAU - Kosik, Eena L
+AU  - Kosik EL
+AD  - Department of Cognitive Science, University of California, San Diego, La Jolla, 
+      CA, USA.
+FAU - van Engen, Quirine
+AU  - van Engen Q
+AD  - Department of Cognitive Science, University of California, San Diego, La Jolla, 
+      CA, USA.
+FAU - Kohn, Jordan
+AU  - Kohn J
+AD  - Herbert Wertheim School of Public Health and Human Longevity Science, University 
+      of California, San Diego, La Jolla, CA, USA.
+AD  - Department of Psychiatry, School of Medicine, University of California, San 
+      Diego, La Jolla, CA, USA.
+FAU - Hill, Aron T
+AU  - Hill AT
+AUID- ORCID: 0000-0002-1435-2993
+AD  - Cognitive Neuroscience Unit, School of Psychology, Deakin University, Geelong, 
+      VIC, Australia.
+AD  - Department of Psychiatry, Central Clinical School, Monash University, Melbourne, 
+      VIC, Australia.
+FAU - Zomorrodi, Reza
+AU  - Zomorrodi R
+AD  - Temerty Centre for Therapeutic Brain Intervention, Centre for Addiction and 
+      Mental Health, University of Toronto, Toronto, ON, Canada.
+FAU - Blumberger, Daniel M
+AU  - Blumberger DM
+AUID- ORCID: 0000-0002-8422-5818
+AD  - Temerty Centre for Therapeutic Brain Intervention, Centre for Addiction and 
+      Mental Health, University of Toronto, Toronto, ON, Canada.
+FAU - Daskalakis, Zafiris J
+AU  - Daskalakis ZJ
+AD  - Department of Psychiatry, School of Medicine, University of California, San 
+      Diego, La Jolla, CA, USA.
+FAU - Hadas, Itay
+AU  - Hadas I
+AUID- ORCID: 0000-0001-7518-1182
+AD  - Department of Psychiatry, School of Medicine, University of California, San 
+      Diego, La Jolla, CA, USA.
+FAU - Voytek, Bradley
+AU  - Voytek B
+AUID- ORCID: 0000-0003-1640-2525
+AD  - Neurosciences Graduate Program, University of California, San Diego, La Jolla, 
+      CA, USA.
+AD  - Department of Cognitive Science, University of California, San Diego, La Jolla, 
+      CA, USA.
+AD  - Halıcıoğlu Data Science Institute, University of California, San Diego, La Jolla, 
+      CA, USA.
+AD  - Kavli Institute for Brain and Mind, University of California, San Diego, La 
+      Jolla, CA, USA.
+LA  - eng
+GR  - R01GM134363/U.S. Department of Health & Human Services | NIH | National Institute 
+      of General Medical Sciences (NIGMS)/
+PT  - Journal Article
+DEP - 20231116
+PL  - United States
+TA  - Transl Psychiatry
+JT  - Translational psychiatry
+JID - 101562664
+SB  - IM
+EDAT- 2023/11/16 00:43
+MHDA- 2023/11/16 00:43
+CRDT- 2023/11/15 23:15
+PHST- 2023/11/16 00:43 [medline]
+PHST- 2023/11/16 00:43 [pubmed]
+PHST- 2023/08/24 00:00 [received]
+PHST- 2023/10/13 00:00 [accepted]
+PHST- 2023/10/09 00:00 [revised]
+PHST- 2023/11/15 23:15 [entrez]
+AID - 10.1038/s41398-023-02631-y [pii]
+AID - 10.1038/s41398-023-02631-y [doi]
+PST - epublish
+SO  - Transl Psychiatry. 2023 Nov 16;13(1):347. doi: 10.1038/s41398-023-02631-y.
